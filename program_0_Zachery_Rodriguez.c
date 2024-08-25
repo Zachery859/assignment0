@@ -24,4 +24,4 @@ int main()
     return 0;
 }
 gcc -o program0 program0_Zachery_Rodriguez.c #
-./program0_Zachery_Rodriguez.c # 
+
